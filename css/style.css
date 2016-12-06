@@ -1,0 +1,53 @@
+*{
+  margin:0;
+  padding: 0;
+  font-family: Arial;
+}
+
+div.principal{
+  background: #ccc;
+  width: 1200px;
+  margin: auto;
+  padding: 10px;
+}
+
+header{
+background: #fff;
+  Widht:1200px;
+  height:200px;
+}
+
+nav{
+  background: #fff;
+  margin-top:10px;
+  width: 1200px;
+  height: 50px;
+}
+
+section{
+  background: #fff;
+  margin-top:10px;
+  width: 900px;
+  height: 500px;
+  float: left;
+}
+
+aside{
+  background: #fff;
+  width: 290px;
+  height: 500px;
+  margin-top:10px;
+  float: left;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  }
+
+footer{
+  background: #fff;
+  width: 1200px;
+  height: 60px;
+  clear: both;
+
+}
+
+
